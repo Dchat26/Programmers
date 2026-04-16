@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+#define MOD 1000000007
+
+int main() {
+	int n = 0;
+	if (scanf("%d", &n) != 1) return 0;
+
+	long long result = 1;
+	for (int i = 1; i <= n; i++) {
+		result = (result * i) % MOD;
+	}
+
+	printf("%lld\n", result);
+
+	return 0;
+}
