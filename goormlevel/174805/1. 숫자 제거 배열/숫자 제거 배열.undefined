@@ -1,9 +1,0 @@
-n, k = input().split()
-nlist = input().split()
-
-count = 0
-for i in nlist:
-	if not k in i:
-		count += 1
-
-print(count)
