@@ -6,10 +6,8 @@ using namespace std;
 vector<long long> solution(int x, int n) {
     vector<long long> answer;
     
-    long long target = x;
-    while(n--) {
-        answer.push_back(target);
-        target += x;
+    for (int i = 1; i <= n; i++) {
+        answer.push_back(x * i);
     }
     
     return answer;
