@@ -1,0 +1,31 @@
+#include <stdio.h>
+
+int main() {
+	int n = 0;
+	if (scanf("%d", &n) != 1) return 0;
+
+	int count = 0;
+	if (40 <= n) {
+		count += n / 40;
+		n %= 40;
+	}
+	if (20 <= n) {
+		count += n / 20;
+		n %= 20;
+	}
+	if (10 <= n) {
+		count += n / 10;
+		n %= 10;
+	}
+	if (5 <= n) {
+		count += n / 5;
+		n %= 5;
+	}
+	if (1 <= n) {
+		count += n / 1;
+	}
+
+	printf("%d\n", count);
+
+	return 0;
+}
