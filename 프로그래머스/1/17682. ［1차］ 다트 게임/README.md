@@ -1,10 +1,10 @@
 # [level 1] [1차] 다트 게임 - 17682 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/17682) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/17682?language=cpp) 
 
 ### 성능 요약
 
-메모리: 9.04 MB, 시간: 0.68 ms
+메모리: 3.74 MB, 시간: 0.02 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 05월 11일 00:43:47
+2026년 05월 11일 00:58:56
 
 ### 문제 설명
 
