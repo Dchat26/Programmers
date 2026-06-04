@@ -1,10 +1,10 @@
 # [level 2] 롤케이크 자르기 - 132265 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/132265?language=cpp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/132265?language=c) 
 
 ### 성능 요약
 
-메모리: 37.6 MB, 시간: 74.50 ms
+메모리: 33.1 MB, 시간: 1511.95 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 06월 04일 22:45:51
+2026년 06월 04일 22:53:36
 
 ### 문제 설명
 
