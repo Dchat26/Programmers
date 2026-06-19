@@ -1,10 +1,10 @@
 # [level 0] 특정 문자 제거하기 - 120826 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120826?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120826?language=java) 
 
 ### 성능 요약
 
-메모리: 11.5 MB, 시간: 0.01 ms
+메모리: 78.2 MB, 시간: 4.35 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 06월 19일 20:48:59
+2026년 06월 19일 20:50:51
 
 ### 문제 설명
 
