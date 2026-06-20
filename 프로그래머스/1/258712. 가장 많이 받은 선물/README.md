@@ -1,10 +1,10 @@
 # [level 1] 가장 많이 받은 선물 - 258712 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/258712?language=cpp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/258712?language=c) 
 
 ### 성능 요약
 
-메모리: 4.16 MB, 시간: 3.44 ms
+메모리: 4.25 MB, 시간: 1.67 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 06월 20일 18:46:14
+2026년 06월 20일 18:46:54
 
 ### 문제 설명
 
